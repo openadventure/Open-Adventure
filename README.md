@@ -23,7 +23,9 @@ Features and Philosophy
 
 **Endless Play**: There is no end to the fun! You can play for years or even decades. With OA, after your character has reached max level, they can begin amassing treasure and wealth. With it, build kingdoms, hire armies, set up far-reaching trade networks or even construct behemoth weapons of war. The possibilities are limited only by your imagination!
 
-**Comprehensive lists**: Choose from over 85 weapons, 30 armors, a multitude of expedition gear, siege weaponry, kingdom building materials, starship systems and more. Employ over 50 skills, 70 talents and 125+ magical spells and psionics. Personalize your play style by choosing between 7 different character archetypes, 40+ roles and over 15 races or species, with the option of creating your own. 
+**Comprehensive lists**: Choose from over 85 weapons, 30 armors, a multitude of expedition gear, siege weaponry, kingdom building materials, starship systems and more. Employ over 50 skills, 70 talents and 125+ magical spells and psionics. Personalize your play style by choosing between 7 different character archetypes, 40+ roles and over 15 races or species, with the option of creating your own.
+
+![Cover Artwork][coverart1]
 
 Download
 ==================
@@ -40,6 +42,8 @@ The files listed here are divided into different sections. The primary section, 
 
 Most, if not all, of these files are released under a Creative Commons Attribution-ShareAlike 3.0 or 4.0 license.
 
+![Open Adventure Compatible Logo][OAcompatible]
+
 Discuss
 ==================
 We have an active community of players discussing every aspect of Open Adventure. Join us on:
@@ -52,7 +56,7 @@ We have an active community of players discussing every aspect of Open Adventure
 
 Develop
 ==================
-**Open Adventure** is an open source, free-to-play RPG system that is similar in play-style as [B/X][bx] but can play both fantasy and sci-fi games (anywhere from [LOTR][lotr] or [D&D][dnd] to [Star Wars][sw] or [Star Trek][st].
+**Open Adventure** is an open source, free-to-play RPG system that is similar in play-style as [B/X][bx] but can play both fantasy and sci-fi games (anywhere from [LOTR][lotr] or [D&D][dnd] to [Star Wars][sw] or [Star Trek][st]).
 
 We want to re-light the lost flame of old school gaming in a new way. Instead of recreating a wheel that's already been made, we have set out to bring modern day techniques and mechanics to the games of old. Help discuss and develop the game by offering your own ideas, art and homemade rules. Together, we can all create a game we love to play!
 
@@ -85,3 +89,5 @@ The official website can be visited at: [http://geekguild.com/openadventure/][OA
 [reddit]: https://www.reddit.com/r/openadventure
 [bx]: https://en.wikipedia.org/wiki/Dungeons_%26_Dragons_Basic_Set
 [intro]: https://github.com/openadventure/Open-Adventure/wiki/Introduction
+[coverart1]: http://www.geekguild.com/openadventure/images/basic_rulebook_cover_art.png
+[OAcompatible]: http://www.geekguild.com/openadventure/images/oa_compatible.png
