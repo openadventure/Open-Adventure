@@ -1,4 +1,4 @@
-Open Adventure                ![open adventure logo][OAlogo]
+Open Adventure - Game System ![open adventure logo][OAlogo]
 ==================
 
 *Open Adventure* is a full-featured tabletop [adventure game][adventuregame] that offers out-of-box support for medieval fantasy and science-fiction expeditions. In *Open Adventure*, you play as a heroic or villainous figure free to explore the perilous world created by the all-mighty Game Master. Along your adventure you'll battle ferocious enemies, solve complex puzzles and navigate labyrinthine mazes, and much more!
