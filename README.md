@@ -1,9 +1,6 @@
-Open Adventure ![open adventure logo][OAlogo]
+Open Adventure
 ==================
-
-*Open Adventure* is a full-featured tabletop [adventure game][adventuregame] that offers out-of-box support for medieval fantasy and science-fiction expeditions. In *Open Adventure*, you play as a heroic or villainous figure free to explore the perilous world created by the all-mighty Game Master. Along your adventure you'll battle ferocious enemies, solve complex puzzles and navigate labyrinthine mazes, and much more!
-
-![basic rulebook][OAproduct]
+![open adventure logo][OAlogo] *Open Adventure* is a full-featured tabletop [adventure game][adventuregame] that offers out-of-box support for medieval fantasy and science-fiction expeditions. In *Open Adventure*, you play as a heroic or villainous figure free to explore the perilous world created by the all-mighty Game Master. Along your adventure you'll battle ferocious enemies, solve complex puzzles and navigate labyrinthine mazes, and much more!
 
 Discuss
 ==================
@@ -18,6 +15,8 @@ We want to re-light the lost flame of old school gaming in a new way. Instead of
 The rulebook is written with [LibreOffice][lo]. The graphics are made with [GIMP][gimp].
 
 The official website can be visited at: [http://geekguild.com/openadventure/][OAwebsite]
+
+![basic rulebook][OAproduct]
 
 [adventuregame]: https://en.wikipedia.org/wiki/Adventure_game
 [OAproduct]: http://www.geekguild.com/openadventure/images/basic_rulebook_product_shot_0.jpg
