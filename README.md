@@ -32,6 +32,8 @@ Download
 The files listed here are divided into different sections. The primary section, labeled "rulebook", is where the bulk of the game rules can be found. Additional OA-related products also exist to expand or augment the **Open Adventure** game. The project files are:
 
 * [Rulebook][rulebook] - The "BIEM" series which is divided into the *Basic Rulebook*, *Intermediate Rulebook*, *Expert Rulebook*, *Master Rulebook* and the *Game Master's Rulebook*. There is also a *Complete Rulebook* which is a compendium of all the **Open Adventure** rules.
+* [Pocket Quest][pocketquest] - The revolutionary **Open Adventure** rules condensed into a single sheet of paper (printed duplex). The entire game (including equipment, magic, game master rules, etc.) can be played with six sheets of rules total. Pocket Quest aims to allow for OA to be played when few resources, time or rules are available. See 8-Bit Adventures below.
+* [8-Bit Adventures][8bitadventures] - A *Simple Text Adventure Game* built completly off the *Pocket Quest* ruleset. 8BA uses a series of text files saved on your computer system to play a game similair to [MUD][mud] mixed with a [Choose Your Own Adventure][CYOA], [Roleplaying Game][RPG] and [Adventure Game][AG] elements. Played in a retro style.
 * [Character Record Sheets][charactersheets] - The main character sheets used when playing OA. Comes in two versions: fantasy and science-fiction. The layouts are the same, only the title font is different.
 * [Adventure Pack][adventurepack] - This is a secondary project that offers printable equipment, feat, talent, magic and character cards. May also include blank map templates.
 * [Canon Converter][canon] - A secondary project that aims to translate **Open Adventure** characters to the realm of the Dungeons & Dragons canon of the *Rules Cyclopedia* era. Also allows for RC-created characters to be converted to OA.
@@ -76,6 +78,12 @@ The official website can be visited at: [http://geekguild.com/openadventure/][OA
 [gimp]: http://www.gimp.org/
 [OAwebsite]: http://geekguild.com/openadventure/
 [rulebook]: https://github.com/openadventure/Open-Adventure/tree/master/rulebook/biem
+[pocketquest]: https://github.com/openadventure/Open-Adventure/tree/master/rulebook/pocket_quest
+[8bitadventures]: https://github.com/openadventure/Open-Adventure/tree/master/rulebook/pocket_quest/8-bit_adventures
+[mud]: https://en.wikipedia.org/wiki/MUD
+[CYOA]: https://en.wikipedia.org/wiki/Choose_Your_Own_Adventure
+[RPG]: https://en.wikipedia.org/wiki/Role-playing_game
+[AG]: https://en.wikipedia.org/wiki/Adventure_game
 [charactersheets]: https://github.com/openadventure/Open-Adventure/tree/master/character_record_sheets
 [adventurepack]: https://github.com/openadventure/Open-Adventure/tree/master/secondary_projects/adventure_pack
 [canon]: https://github.com/openadventure/Open-Adventure/tree/master/secondary_projects/canon_converter
