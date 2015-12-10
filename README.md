@@ -78,8 +78,8 @@ The official website can be visited at: [http://geekguild.com/openadventure/][OA
 [gimp]: http://www.gimp.org/
 [OAwebsite]: http://geekguild.com/openadventure/
 [rulebook]: https://github.com/openadventure/Open-Adventure/tree/master/rulebook/biem
-[pocketquest]: https://github.com/openadventure/Open-Adventure/tree/master/rulebook/pocket_quest
-[8bitadventures]: https://github.com/openadventure/Open-Adventure/tree/master/rulebook/pocket_quest/8-bit_adventures
+[pocketquest]: https://github.com/openadventure/Pocket-Quest
+[8bitadventures]: https://github.com/openadventure/8-Bit-Adventures
 [mud]: https://en.wikipedia.org/wiki/MUD
 [CYOA]: https://en.wikipedia.org/wiki/Choose_Your_Own_Adventure
 [RPG]: https://en.wikipedia.org/wiki/Role-playing_game
