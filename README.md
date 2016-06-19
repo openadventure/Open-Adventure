@@ -88,7 +88,7 @@ The official website can be visited at: [http://geekguild.com/openadventure/][OA
 [adventurepack]: https://github.com/openadventure/Open-Adventure/tree/master/secondary_projects/adventure_pack
 [canon]: https://github.com/openadventure/Open-Adventure/tree/master/secondary_projects/canon_converter
 [cccm]: https://github.com/openadventure/Open-Adventure/tree/master/secondary_projects/custom_character_creation_manual
-[coverart]: https://github.com/openadventure/Open-Adventure/tree/master/cover_art
+[coverart]: https://github.com/openadventure/Open-Adventure/tree/master/book_art
 [OAmedia]: https://github.com/openadventure/Open-Adventure/tree/master/open_adventure_media
 [d6-d6]: https://github.com/openadventure/Open-Adventure/tree/master/d6-d6_system
 [FB]: https://www.facebook.com/openadventuregame
