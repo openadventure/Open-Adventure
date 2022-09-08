@@ -64,11 +64,11 @@ We want to re-light the lost flame of old school gaming in a new way. Instead of
 
 If this project has captured your imagination, or you find yourself wanting to know more, then we suggest you continue by reading the [Introduction][intro] page, which details an overview of what OA is, what it stands for and what software and expertise you'll need to start contributing today!
 
-The official website can be visited at: [http://geekguild.com/openadventure/][OAwebsite]
+The official website can be visited at: [http://aelira.com/openadventure/][OAwebsite]
 
 [adventuregame]: https://en.wikipedia.org/wiki/Adventure_game
-[OAproduct]: http://www.geekguild.com/openadventure/images/basic_rulebook_product_shot_0.jpg
-[OAlogo]: http://www.geekguild.com/openadventure/images/mobileicon.png
+[OAproduct]: http://www.aelira.com/openadventure/images/basic_rulebook_product_shot_0.jpg
+[OAlogo]: http://www.aelira.com/openadventure/images/mobileicon.png
 [googleplus]: https://plus.google.com/u/0/communities/112108732479175981421
 [lotr]: https://en.wikipedia.org/wiki/The_Lord_of_the_Rings
 [dnd]: https://en.wikipedia.org/wiki/Dungeons_%26_Dragons
@@ -76,7 +76,7 @@ The official website can be visited at: [http://geekguild.com/openadventure/][OA
 [st]: https://en.wikipedia.org/wiki/Star_trek
 [lo]: https://www.libreoffice.org/
 [gimp]: http://www.gimp.org/
-[OAwebsite]: http://geekguild.com/openadventure/
+[OAwebsite]: http://aelira.com/openadventure/
 [rulebook]: https://github.com/openadventure/Open-Adventure/tree/master/rulebook/biem
 [pocketquest]: https://github.com/openadventure/Pocket-Quest
 [8bitadventures]: https://github.com/openadventure/8-Bit-Adventures
@@ -97,5 +97,5 @@ The official website can be visited at: [http://geekguild.com/openadventure/][OA
 [reddit]: https://www.reddit.com/r/openadventure
 [bx]: https://en.wikipedia.org/wiki/Dungeons_%26_Dragons_Basic_Set
 [intro]: https://github.com/openadventure/Open-Adventure/wiki/Introduction
-[coverart1]: http://www.geekguild.com/openadventure/images/basic_rulebook_cover_art.png
-[OAcompatible]: http://www.geekguild.com/openadventure/images/oa_compatible.png
+[coverart1]: http://www.aelira.com/openadventure/images/basic_rulebook_cover_art.png
+[OAcompatible]: http://www.aelira.com/openadventure/images/oa_compatible.png
