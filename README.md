@@ -50,7 +50,7 @@ Discuss
 ==================
 We have an active community of players discussing every aspect of **Open Adventure**. Join us on:
 
-* [Google Plus][googleplus] (G+)
+* [MeWe][mewe]
 * [Facebook][FB]
 * [IRC Chatroom][IRC]
 * [RPG Geek][rpggeek]
@@ -69,7 +69,7 @@ The official website can be visited at: [http://aelira.com/openadventure/][OAweb
 [adventuregame]: https://en.wikipedia.org/wiki/Adventure_game
 [OAproduct]: http://www.aelira.com/openadventure/images/basic_rulebook_product_shot_0.jpg
 [OAlogo]: http://www.aelira.com/openadventure/images/mobileicon.png
-[googleplus]: https://plus.google.com/u/0/communities/112108732479175981421
+[mewe]: https://mewe.com/group/5bc0232da40f300b57619fb1
 [lotr]: https://en.wikipedia.org/wiki/The_Lord_of_the_Rings
 [dnd]: https://en.wikipedia.org/wiki/Dungeons_%26_Dragons
 [sw]: https://en.wikipedia.org/wiki/Star_Wars
